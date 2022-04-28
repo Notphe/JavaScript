@@ -1,0 +1,16 @@
+
+body{
+    background-image: url(bg.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1,h5{
+    color: aliceblue;
+}
+
+.card{
+    position: fixed;
+    border-radius: 15%;
+    background-color: rgba(47, 180, 184, 0.481);
+}
